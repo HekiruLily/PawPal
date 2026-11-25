@@ -1,0 +1,10 @@
+Inter font extracted from the user-provided PawPal-Nang-Mat-Ong.html.
+Static weights derived from its embedded variable font.
+
+Copyright 2016 The Inter Project Authors
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+
+http://scripts.sil.org/OFL
+Noto Serif Display Regular: extracted without alteration from the supplied PawPal HTML.
+Copyright 2016 Google Inc. All Rights Reserved.
